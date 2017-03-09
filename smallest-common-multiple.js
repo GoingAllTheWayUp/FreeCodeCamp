@@ -3,7 +3,7 @@
 // whats actualy called the LCM "Least common multiplyer" of two user
 // defined numaric values. You will also be required to produce the
 // range between the two values in order to determin the value that
-// this range has its LCM.
+// this range has as its LCM.
 // Need to knows:
 // Least Common Multiplye (LCM)
 // Greatest Common Demoninator (GCD)
