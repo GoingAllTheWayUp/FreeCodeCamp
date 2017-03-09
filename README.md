@@ -1,2 +1,2 @@
 # FreeCodeCamp
-My solutions and comments.
+My solutions and comment on the more obscure FreeCodeCamp challenges.
